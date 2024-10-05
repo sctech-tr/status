@@ -3,7 +3,7 @@ name: Website Status Check
 on:
   schedule:
     - cron: '*/5 * * * *'  # Runs every 5 minutes
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:  # Allows manual triggering 
 
 jobs:
   check_status:
