@@ -31,9 +31,15 @@ jobs:
         from datetime import datetime
         
         SITES = [
-          "https://example.com",
-          "https://example.org",
-          "https://nonexistenttest.sctech.mooo.com"
+          "https://sctech.mooo.com",
+          "https://status.sctech.mooo.com",
+          "https://go.sctech.mooo.com",
+          "https://sctech.gitbook.io",
+          "https://openprofile.us.to",
+          "https://about.openprofile.us.to",
+          "https://opr.ix.tc",
+          "https://lwytui.github.io",
+          "https://wwwterminal.h4ck.me"
         ]
         
         results = []
