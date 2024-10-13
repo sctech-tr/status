@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/sctech-tr/sctech-tr.github.io/main/img/me.jpg
   name: sctech status page
   introTitle: "hi this is the status page for openprofile, wwwterminal and more"
-  introMessage: contains status data for: sctech-tr, lwytui, openprofile, wwwterminal
+  introMessage: contains status data for sctech-tr, lwytui, openprofile, wwwterminal
   navbar:
     - title: Status
       href: /
