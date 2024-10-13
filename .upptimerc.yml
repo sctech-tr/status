@@ -7,8 +7,12 @@ sites:
     url: https://sctech.pages.gay
   - name: sctech link shortener
     url: https://go.sctech.mooo.com
-  - name: this website
+  - name: statuspage
     url: https://status.sctech.mooo.com
+  - name: example statuspage
+    url: https://sctech.mooo.com/statuspage/
+  - name: kanban board demo
+    url: https://kanban-demo-iauy.onrender.com
   - name: osearch
     url: https://search.sctech.mooo.com
   - name: lwytui
