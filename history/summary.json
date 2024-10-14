@@ -94,19 +94,19 @@
     "url": "https://kanban-demo-iauy.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/kanban-demo-iauy.onrender.com.ico",
     "slug": "kanban-board-demo",
-    "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "97.12%",
-    "time": 7881,
-    "timeDay": 7881,
-    "timeWeek": 7881,
-    "timeMonth": 7881,
-    "timeYear": 7881,
+    "status": "up",
+    "uptime": "94.56%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "94.56%",
+    "time": 6195,
+    "timeDay": 6195,
+    "timeWeek": 6195,
+    "timeMonth": 6195,
+    "timeYear": 6195,
     "dailyMinutesDown": {
-      "2024-10-14": 25
+      "2024-10-14": 48
     }
   },
   {
