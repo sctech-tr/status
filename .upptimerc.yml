@@ -23,6 +23,8 @@ sites:
     url: http://about.openprofile.us.to
   - name: wwwterminal
     url: https://wwwterminal.h4ck.me
+  - name: rmsh website
+    url: https://remote-shell.github.io
 assignees:
   - sctech-tr
 status-website:
