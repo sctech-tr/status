@@ -5,6 +5,8 @@ sites:
     url: https://sctech.mooo.com
   - name: sctech.pages.gay - mirror 2
     url: https://sctech.pages.gay
+  - name: sctech.netlify.app - mirror 3
+    url: https://sctech.netlify.app
   - name: sctech link shortener
     url: https://go.sctech.mooo.com
   - name: statuspage
