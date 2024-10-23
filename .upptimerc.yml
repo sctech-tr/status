@@ -27,6 +27,14 @@ sites:
     url: https://wwwterminal.h4ck.me
   - name: rmsh website
     url: https://remote-shell.github.io
+  - name: note and flush website
+    url: https://noteflush.github.io
+  - name: ‌
+    url: https://pinariko.github.io
+  - name: lolchat
+    url: https://lolch4t.netlify.app
+  - name: lolchat backend
+    url: https://lolchat-backend.onrender.com
 assignees:
   - sctech-tr
 status-website:
@@ -34,8 +42,8 @@ status-website:
   cname: status.sctech.mooo.com
   logoUrl: https://raw.githubusercontent.com/sctech-tr/sctech-tr.github.io/main/img/me.jpg
   name: sctech status page
-  introTitle: "hi this is the status page for openprofile, wwwterminal and more"
-  introMessage: contains status data for sctech-tr, lwytui, openprofile, wwwterminal
+  introTitle: "hi this is the status page for openprofile, lolchat and more"
+  introMessage: contains status data for sctech-tr, lwytui, openprofile, wwwterminal, lolchat, rmsh, note+flush
   navbar:
     - title: Status
       href: /
