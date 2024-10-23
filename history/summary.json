@@ -118,7 +118,7 @@
     "slug": "kanban-board-demo",
     "status": "down",
     "uptime": "96.16%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "96.16%",
@@ -128,7 +128,7 @@
     "timeMonth": 3354,
     "timeYear": 3354,
     "dailyMinutesDown": {
-      "2024-10-23": 0,
+      "2024-10-23": 1,
       "2024-10-22": 40,
       "2024-10-21": 172,
       "2024-10-20": 15,
