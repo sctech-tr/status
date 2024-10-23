@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kanban-demo-iauy.onrender.com.ico",
     "slug": "kanban-board-demo",
     "status": "up",
-    "uptime": "95.46%",
+    "uptime": "95.47%",
     "uptimeDay": "90.85%",
     "uptimeWeek": "94.60%",
-    "uptimeMonth": "95.46%",
-    "uptimeYear": "95.46%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "95.47%",
     "time": 3102,
     "timeDay": 643,
     "timeWeek": 3105,
@@ -199,18 +199,20 @@
     "url": "http://about.openprofile.us.to",
     "icon": "https://icons.duckduckgo.com/ip3/about.openprofile.us.to.ico",
     "slug": "about-openprofile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 173,
-    "timeWeek": 168,
+    "timeDay": 181,
+    "timeWeek": 171,
     "timeMonth": 199,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "wwwterminal",
@@ -283,7 +285,7 @@
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-10-23": 132,
+      "2024-10-23": 154,
       "2024-10-22": 40,
       "2024-10-21": 198,
       "2024-10-20": 15,
@@ -320,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lolchat-backend.onrender.com.ico",
     "slug": "lolchat-backend",
     "status": "down",
-    "uptime": "69.14%",
-    "uptimeDay": "69.14%",
-    "uptimeWeek": "69.14%",
-    "uptimeMonth": "69.14%",
-    "uptimeYear": "69.14%",
+    "uptime": "3.73%",
+    "uptimeDay": "3.73%",
+    "uptimeWeek": "3.73%",
+    "uptimeMonth": "3.73%",
+    "uptimeYear": "3.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 22
     }
   }
 ]
