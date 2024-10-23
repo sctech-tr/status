@@ -19,10 +19,16 @@ sites:
     url: https://search.sctech.mooo.com
   - name: lwytui
     url: https://lwytui.github.io
-  - name: openprofile
+  - name: openprofile (main)
+    url: https://openprofile.is-cool.dev
+  - name: openprofile (us.to)
     url: https://openprofile.us.to
+  - name: openprofile (netlify)
+    url: https://generate-openprofile.netlify.app
+  - name: openprofile url shortener
+    url: https://opr.ix.tc
   - name: about openprofile
-    url: http://about.openprofile.us.to
+    url: https://about.openprofile.is-cool.dev
   - name: wwwterminal
     url: https://wwwterminal.h4ck.me
   - name: rmsh website
