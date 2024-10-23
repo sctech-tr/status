@@ -235,19 +235,19 @@
     "url": "https://opr.ix.tc",
     "icon": "https://icons.duckduckgo.com/ip3/opr.ix.tc.ico",
     "slug": "openprofile-url-shortener",
-    "status": "down",
-    "uptime": "91.44%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "91.44%",
-    "time": 321,
-    "timeDay": 321,
-    "timeWeek": 321,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "88.07%",
+    "uptimeDay": "88.07%",
+    "uptimeWeek": "88.07%",
+    "uptimeMonth": "88.07%",
+    "uptimeYear": "88.07%",
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-10-23": 25
+      "2024-10-23": 36
     }
   },
   {
@@ -339,7 +339,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-10-23": 473,
+      "2024-10-23": 495,
       "2024-10-22": 40,
       "2024-10-21": 198,
       "2024-10-20": 15,
@@ -376,18 +376,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lolchat-backend.onrender.com.ico",
     "slug": "lolchat-backend",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-10-23": 316
+      "2024-10-23": 327
     }
   }
 ]
