@@ -1,0 +1,12 @@
+/* Global Styles */
+body {
+    font-family: monospace, sans-serif; /* Monospace for terminal look */
+    background-color: #1e1e1e; /* Dark terminal background */
+    color: #c5c8c6; /* Light grey text */
+    margin: 0;
+    padding: 20px; /* Added padding for more space around content */
+}
+
+* {
+    box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
+}
