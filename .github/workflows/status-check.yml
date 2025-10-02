@@ -31,9 +31,17 @@ jobs:
         from datetime import datetime
         
         SITES = [
-          "https://example.com",
-          "https://example.org",
-          "https://nonexistenttest.sctech.mooo.com"
+          "https://sctech.localplayer.dev",
+          "https://blog.sctech.localplayer.dev",
+          "https://docs.sctech.localplayer.dev",
+          "https://go.sctech.localplayer.dev",
+          "https://cndl.web.app",
+          "https://osearch.app.sctech.localplayer.dev",
+          "https://lolchat.app.sctech.localplayer.dev",
+          "https://go-md.app.sctech.localplayer.dev",
+          "https://breadblog.app.sctech.localplayer.dev",
+          "https://wwwterminal.sctech.localplayer.dev",
+          "https://nnn.n.nu"
         ]
         
         results = []
@@ -88,7 +96,7 @@ jobs:
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 title: `🔴 ${site.url} is down`,
-                body: `Site ${site.url} is currently down. Last checked at ${site.timestamp}`,
+                body: `Site ${site.url} is currently down. Checked at ${site.timestamp}`,
                 labels: ['status', site.url, 'down']
               });
             } else if (site.status === 'up' && issues.data.length > 0) {
@@ -104,7 +112,7 @@ jobs:
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   title: `🟢 ${site.url} is up`,
-                  body: `Site ${site.url} is up and running. Last checked at ${site.timestamp}`,
+                  body: `Site ${site.url} is up and running. Checked at ${site.timestamp}`,
                   labels: ['status', site.url, 'up']
                 });
               }
