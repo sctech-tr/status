@@ -2,56 +2,56 @@
   {
     "url": "https://sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:24.839915"
+    "timestamp": "2025-10-08T11:42:42.471275"
   },
   {
     "url": "https://blog.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:25.049960"
+    "timestamp": "2025-10-08T11:42:42.732775"
   },
   {
     "url": "https://docs.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:25.527488"
+    "timestamp": "2025-10-08T11:42:43.352292"
   },
   {
     "url": "https://go.sctech.localplayer.dev",
-    "status": "up",
-    "timestamp": "2025-10-08T11:32:25.952568"
+    "status": "down",
+    "timestamp": "2025-10-08T11:42:44.041648"
   },
   {
     "url": "https://cndl.web.app",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:26.093767"
+    "timestamp": "2025-10-08T11:42:44.239985"
   },
   {
     "url": "https://osearch.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:26.220987"
+    "timestamp": "2025-10-08T11:42:44.505582"
   },
   {
     "url": "https://lolchat.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:26.376564"
+    "timestamp": "2025-10-08T11:42:44.697978"
   },
   {
     "url": "https://go-md.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:26.960096"
+    "timestamp": "2025-10-08T11:42:44.925208"
   },
   {
     "url": "https://breadblog.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:27.220335"
+    "timestamp": "2025-10-08T11:42:45.155027"
   },
   {
     "url": "https://wwwterminal.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:27.600239"
+    "timestamp": "2025-10-08T11:42:45.723609"
   },
   {
     "url": "https://nnn.n.nu",
     "status": "up",
-    "timestamp": "2025-10-08T11:32:27.891185"
+    "timestamp": "2025-10-08T11:42:46.392269"
   }
 ]
