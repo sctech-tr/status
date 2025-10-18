@@ -1,57 +1,57 @@
 [
   {
-    "url": "https://sctech.localplayer.dev",
+    "url": "https://sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:33.406954"
+    "timestamp": "2025-10-18T08:53:49.176199"
   },
   {
-    "url": "https://blog.sctech.localplayer.dev",
-    "status": "down",
-    "timestamp": "2025-10-18T08:43:33.506784"
+    "url": "https://blog.sctech.qzz.io",
+    "status": "up",
+    "timestamp": "2025-10-18T08:53:54.389409"
   },
   {
-    "url": "https://docs.sctech.localplayer.dev",
-    "status": "down",
-    "timestamp": "2025-10-18T08:43:33.594940"
+    "url": "https://docs.sctech.qzz.io",
+    "status": "up",
+    "timestamp": "2025-10-18T08:53:55.094445"
   },
   {
     "url": "https://go.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:34.294595"
+    "timestamp": "2025-10-18T08:53:56.044632"
   },
   {
     "url": "https://cndl.web.app",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:34.582327"
+    "timestamp": "2025-10-18T08:53:56.182620"
   },
   {
-    "url": "https://osearch.app.sctech.localplayer.dev",
+    "url": "https://osearch.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:34.805892"
+    "timestamp": "2025-10-18T08:54:01.599963"
   },
   {
     "url": "https://lolchat.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:35.040771"
+    "timestamp": "2025-10-18T08:54:02.350451"
   },
   {
-    "url": "https://go-md.app.sctech.localplayer.dev",
+    "url": "https://markdown.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:35.266517"
+    "timestamp": "2025-10-18T08:54:03.076706"
   },
   {
-    "url": "https://breadblog.app.sctech.localplayer.dev",
+    "url": "https://breadblog.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:35.760883"
+    "timestamp": "2025-10-18T08:54:03.526465"
   },
   {
-    "url": "https://wwwterminal.app.sctech.localplayer.dev",
+    "url": "https://wwwterminal.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:35.983247"
+    "timestamp": "2025-10-18T08:54:04.186568"
   },
   {
     "url": "https://nnn.n.nu",
     "status": "up",
-    "timestamp": "2025-10-18T08:43:36.606310"
+    "timestamp": "2025-10-18T08:54:04.950897"
   }
 ]
