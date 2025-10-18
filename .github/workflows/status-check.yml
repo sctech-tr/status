@@ -31,16 +31,16 @@ jobs:
         from datetime import datetime
         
         SITES = [
-          "https://sctech.localplayer.dev",
-          "https://blog.sctech.localplayer.dev",
-          "https://docs.sctech.localplayer.dev",
+          "https://sctech.qzz.io",
+          "https://blog.sctech.qzz.io",
+          "https://docs.sctech.qzz.io",
           "https://go.sctech.localplayer.dev",
           "https://cndl.web.app",
-          "https://osearch.app.sctech.localplayer.dev",
+          "https://osearch.sctech.qzz.io",
           "https://lolchat.app.sctech.localplayer.dev",
-          "https://go-md.app.sctech.localplayer.dev",
-          "https://breadblog.app.sctech.localplayer.dev",
-          "https://wwwterminal.app.sctech.localplayer.dev",
+          "https://markdown.sctech.qzz.io",
+          "https://breadblog.sctech.qzz.io",
+          "https://wwwterminal.sctech.qzz.io",
           "https://nnn.n.nu"
         ]
         
