@@ -1,57 +1,57 @@
 [
   {
     "url": "https://sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-18T15:26:20.576713"
+    "status": "up",
+    "timestamp": "2025-11-18T15:46:29.012614"
   },
   {
     "url": "https://blog.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:21.073094"
+    "timestamp": "2025-11-18T15:46:29.367290"
   },
   {
     "url": "https://docs.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:21.506519"
+    "timestamp": "2025-11-18T15:46:29.984438"
   },
   {
     "url": "https://go.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:22.245792"
+    "timestamp": "2025-11-18T15:46:30.529743"
   },
   {
     "url": "https://cndl.web.app",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:22.386093"
+    "timestamp": "2025-11-18T15:46:30.656244"
   },
   {
     "url": "https://osearch.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:30.478926"
+    "timestamp": "2025-11-18T15:46:39.648466"
   },
   {
     "url": "https://lolchat.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:30.673256"
+    "timestamp": "2025-11-18T15:46:40.198786"
   },
   {
     "url": "https://markdown.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-18T15:26:30.731644"
+    "status": "up",
+    "timestamp": "2025-11-18T15:46:40.665472"
   },
   {
     "url": "https://breadblog.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:35.558765"
+    "timestamp": "2025-11-18T15:46:40.806951"
   },
   {
     "url": "https://wwwterminal.sctech.qzz.io",
     "status": "up",
-    "timestamp": "2025-11-18T15:26:36.019864"
+    "timestamp": "2025-11-18T15:46:45.152755"
   },
   {
     "url": "https://nnn.n.nu",
     "status": "down",
-    "timestamp": "2025-11-18T15:26:36.457797"
+    "timestamp": "2025-11-18T15:46:45.562199"
   }
 ]
