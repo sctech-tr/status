@@ -1,57 +1,57 @@
 [
   {
     "url": "https://sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:58:37.173877"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:14.365264"
   },
   {
     "url": "https://blog.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:58:47.189929"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:14.794771"
   },
   {
     "url": "https://docs.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:58:57.204827"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:16.017616"
   },
   {
     "url": "https://go.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-11-25T10:58:57.593096"
+    "timestamp": "2025-11-25T11:24:16.879868"
   },
   {
     "url": "https://cndl.web.app",
     "status": "up",
-    "timestamp": "2025-11-25T10:58:57.726641"
+    "timestamp": "2025-11-25T11:24:17.112823"
   },
   {
     "url": "https://osearch.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:59:07.742784"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:22.932050"
   },
   {
     "url": "https://lolchat.app.sctech.localplayer.dev",
     "status": "up",
-    "timestamp": "2025-11-25T10:59:07.905386"
+    "timestamp": "2025-11-25T11:24:23.192571"
   },
   {
     "url": "https://markdown.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:59:17.918118"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:23.990202"
   },
   {
     "url": "https://breadblog.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:59:27.931705"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:24.303804"
   },
   {
     "url": "https://wwwterminal.sctech.qzz.io",
-    "status": "down",
-    "timestamp": "2025-11-25T10:59:37.953364"
+    "status": "up",
+    "timestamp": "2025-11-25T11:24:24.776185"
   },
   {
     "url": "https://nnn.n.nu",
     "status": "down",
-    "timestamp": "2025-11-25T10:59:38.315416"
+    "timestamp": "2025-11-25T11:24:25.595252"
   }
 ]
